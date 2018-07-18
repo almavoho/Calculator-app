@@ -8,7 +8,7 @@ int main()
 	int b;
 	int sum;
 
-	cout << "Enter a number Epe! \n";
+	cout << "Enter a number You! \n";
 	cin >> a;
 
 	cout << "Enter another number \n";
